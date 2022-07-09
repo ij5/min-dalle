@@ -1,0 +1,1 @@
+FROM r8.im/kuprel/min-dalle@sha256:fd77461b5df14ab0870ee331ecdd6c134900f6abed5525d8ad7dcd89458036c7
